@@ -1,0 +1,32 @@
+{
+  "name": "learning typescript",
+  "description": "ejercicios del llibro learning typescript",
+  "main": "gulpfile.js",
+  "authors": [
+    "Daniel Sanchez Cuadrado"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "learning",
+    "typescript"
+  ],
+  "homepage": "https://github.com/yosoydani/LearningTypescript",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "animate.css": "~3.2.3",
+    "lodash": "~3.5.0",
+    "materialize": "~0.95.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.8.0"
+  }
+}

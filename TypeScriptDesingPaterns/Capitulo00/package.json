@@ -1,0 +1,19 @@
+{
+  "name": "typescriptdesingpaterns",
+  "version": "1.0.0",
+  "description": "pruebas para el libro dessing patters in typescript y hacer las cosas poco a poco",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.2.16",
+    "@types/tape": "^4.2.31"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.8",
+    "watchify": "^3.9.0"
+  }
+}

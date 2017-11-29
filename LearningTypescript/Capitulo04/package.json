@@ -1,0 +1,17 @@
+{
+  "name": "capitulo04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./out/main.js",
+  "dependencies": {
+    "@types/jquery": "^3.2.16",
+    "@types/node": "^8.0.53",
+    "@types/q": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

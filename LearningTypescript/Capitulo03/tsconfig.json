@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "commonjs",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "declaration": false,
+        "sourceRoot": "src",
+        "outDir": "out",
+        "noImplicitThis": true
+    },
+    "exclude": [
+        "bld",
+        "node_modules"
+    ]
+}

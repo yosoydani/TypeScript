@@ -1,0 +1,59 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "gulp",
+            "task": "build-test",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "bundle-e2e-test",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "build-source",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "bundle-source",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "bundle-test",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "run-e2e-test",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "serve",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "test",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "run",
+            "problemMatcher": []
+        },
+        {
+            "type": "gulp",
+            "task": "source",
+            "problemMatcher": [
+                "$tslint5"
+            ]
+        }
+    ]
+}
